@@ -1,0 +1,29 @@
+{
+    "id": "9c39edac-2dbb-4bb4-8631-74546b065571",
+    "name": "General journal Import Solution",
+    "publisher": "IBB Innovations, LLC",
+    "version": "1.0.0.1",
+    "contextSensitiveHelpUrl": "https://www.dynamics365.work/redmine/login",
+    "brief": "Import your worksheets into Microsoft Dynamics 365 Business Central",
+    "description": "This app introduces an Import from Excel and CSV File actions to your journal pages and offers a host of features to speed up the process of capturing journals in Business Central.",
+    "privacyStatement": "",
+    "EULA": "",
+    "help": "",
+    "url": "https://ibbinnovations.com/",
+    "applicationInsightsConnectionString": "InstrumentationKey=00000000-0000-0000-0000-000000000000",
+    "logo": "./src/res/IBB.jpg",
+    "dependencies": [],  
+    "screenshots": [],
+    "platform": "1.0.0.0",
+    "application": "18.0.0.0",
+    "idRanges": [
+      {
+        "from": 6000100,
+        "to": 6000200
+      }
+    ],
+    "showMyCode": true,
+    "runtime": "7.2",
+    "features": ["TranslationFile"]
+    
+  }

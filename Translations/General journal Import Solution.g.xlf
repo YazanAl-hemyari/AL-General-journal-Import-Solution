@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="General journal Import Solution">
+    <body>
+      <group id="body">
+        <trans-unit id="Codeunit 4208339423 - NamedType 3300413136" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Excel is Successfully Imported ..</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit IBBExcelImportFile - NamedType ImpSucessedMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4208339423 - NamedType 511806700" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No Excel File Was Detected !..</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit IBBExcelImportFile - NamedType NoFileFoundMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4208339423 - NamedType 4273853447" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please Choose a File to Import it ..</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit IBBExcelImportFile - NamedType UploadExcelMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4208339423 - Method 2634966778 - NamedType 140594872" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General Journal Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit IBBExcelImportFile - Method ExportGenLine - NamedType CustLedgerEntriesLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4208339423 - Method 2634966778 - NamedType 2985640992" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Gen. Journal Line_%1_%2</source>
+          <note from="Developer" annotates="general" priority="2">%1 = XML node name ; %2 = Parent XML node name</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit IBBExcelImportFile - Method ExportGenLine - NamedType ExcelFileNameLbl</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2693370455 - Action 3074073137 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2583272393">
+          <source>Import</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension IBBGenJournalEXt - Action IBBImports - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2693370455 - Action 1092455035 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2583272393">
+          <source>Export to Excel</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension IBBGenJournalEXt - Action IBBExportToExcel - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2693370455 - Action 1092455035 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2583272393">
+          <source>Export to Excel</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension IBBGenJournalEXt - Action IBBExportToExcel - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2693370455 - Action 3520386576 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2583272393">
+          <source>Import Excel File</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension IBBGenJournalEXt - Action IBBImport - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2693370455 - Action 3520386576 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2583272393">
+          <source>Import Excel File</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension IBBGenJournalEXt - Action IBBImport - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1716498922 - Field 3052067854 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1806786327">
+          <source>Shortcut Dimension 5 Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension IBBGeneralJournal - Field AC Shortcut Dimension 5 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1716498922 - Field 933105837 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1806786327">
+          <source>Shortcut Dimension 7 Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension IBBGeneralJournal - Field IBB Shortcut Dimension 7 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1716498922 - Field 612071200 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1806786327">
+          <source>Shortcut Dimension 8 Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension IBBGeneralJournal - Field IBB Shortcut Dimension 8 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1716498922 - Field 2024180094 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1806786327">
+          <source>Shortcut Dimension 4 Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension IBBGeneralJournal - Field PC Shortcut Dimension 4 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1716498922 - Field 88593895 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1806786327">
+          <source>Shortcut Dimension 3 Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension IBBGeneralJournal - Field SCC Shortcut Dimension 3 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1716498922 - Field 642703517 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1806786327">
+          <source>Shortcut Dimension 6 Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension IBBGeneralJournal - Field SPC Shortcut Dimension 6 Code - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
